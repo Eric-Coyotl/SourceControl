@@ -12,7 +12,7 @@
     Stash = Save changes for later
     Push = Send from local commits to remote repo
     Pull = Fetch from remote commits to local repo
- 
+  
     COMMIT MESSAGES
  
     NEW FEATURE:
@@ -44,7 +44,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Swiftful")
             
-            Button("Subscribe now!"){
+            Button("Subscribe"){
                 
             }
             Rectangle()
