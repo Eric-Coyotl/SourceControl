@@ -16,7 +16,6 @@ struct HomeView: View {
         VStack {
             Text("Hello World!")
             
-            
         }
     }
     
