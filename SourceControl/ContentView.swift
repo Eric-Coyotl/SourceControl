@@ -15,7 +15,7 @@
     Merge = Joining two different branches
     Rebase = Moving one branch on top of another branch
     Cherry Picking = Duplicating (copying) a commit from one branch to another
-    Pull Request (PR) = Request to merge branch 
+    Pull Request (PR) = Request to merge branch
  
     COMMIT MESSAGES
  
@@ -51,7 +51,7 @@ struct ContentView: View {
                             .foregroundStyle(.tint)
                         Text("Swiftful Thinking!")
             
-                        Button("Subscribe!"){
+                        Button("Subscribe Now!"){
                         }
                 
                     }
